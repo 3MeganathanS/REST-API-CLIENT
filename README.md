@@ -128,3 +128,6 @@ This two-stage approach showcases chaining of HTTP requests, robust JSON parsing
 * **Strengthened version control habits**: meaningful commit messages, branch for feature work, pull-request review simulation.
 
 ---
+
+## Output
+![Image](https://github.com/user-attachments/assets/9bc00632-5fc3-49f9-8186-25b22b792afe)
